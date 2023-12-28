@@ -1,4 +1,4 @@
-# Secretlint [![Actions Status](https://github.com/secretlint/secretlint/workflows/test/badge.svg)](https://github.com/secretlint/secretlint/actions?query=workflow%3A"test")
+# Secretlint [![Actions Status](https://github.com/secretlint/secretlint/workflows/test/badge.svg)](https://github.com/secretlint/secretlint/actions?query=workflow%3A"test")<!-- gh-dependents-info-used-by-start --><!-- gh-dependents-info-used-by-end -->
 
 ![Secretlint is that Pluggable linting tool to prevent committing credential.](./docs/assets/SecretLintLP.png)
 
